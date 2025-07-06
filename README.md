@@ -1,27 +1,8 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Table of Contents
-
-- [Aim](#aim)
-- [UML Design](#uml-design)
-- [Libraries](#libraries)
-  - [Standard Library Imports](#standard-library-imports)
-  - [Related Third Party Imports](#related-third-party-imports)
-- [Implementation](#implementation)
-- [Authenticator](#authenticator)
-- [Test Driver](#test-driver)
-- [Project Organisation](#project-organisation)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Aim
 
 Management of a computer shop, with various stocks stored in the database which
 allows users to create a Wishlist.
-
-# UML Design
-
-![UML Design](UML_design.png)
 
 # Libraries
 
